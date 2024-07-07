@@ -1,1 +1,3 @@
-# Java_Curso_1_Alura
+//
+Desafio final feito no primeiro curso do caminho de introdução a Java com programação orientada a objeto
+//
